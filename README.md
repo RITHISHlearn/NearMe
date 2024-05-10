@@ -1,4 +1,4 @@
-# Ex04 Places Around Me
+# Ex04 IMAGE MAP
 ## Date: 
 
 ## AIM
